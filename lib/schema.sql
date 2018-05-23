@@ -12,7 +12,6 @@ CREATE TABLE books (
   title TEXT,
   year INTEGER,
   series_id INTEGER
-  character_id INTEGER,
 );
 
 CREATE TABLE series (
