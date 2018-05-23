@@ -1,1 +1,1 @@
-UPDATE characters SET species WHERE character = 
+UPDATE characters SET species WHERE character = 8;
